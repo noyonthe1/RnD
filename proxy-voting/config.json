@@ -1,0 +1,16 @@
+{
+   "host":"188.166.219.178",
+   "port":"4000",
+   "jwt_expiretime": "360000",
+   "channelName":"mychannel",
+   "GOPATH":"../artifacts",
+   "keyValueStore":"/tmp/fabric-client-kvs",
+   "eventWaitTime":"30000",
+   "orderer":"grpcs://188.166.219.178:7050",
+   "users":[
+      {
+         "username":"admin",
+         "secret":"adminpw"
+      }
+   ]
+}
