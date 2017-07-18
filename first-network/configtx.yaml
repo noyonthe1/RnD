@@ -24,7 +24,7 @@ Profiles:
                 Organizations:
                     - *Org1
                     - *Org2
-                    - *org3
+                    - *Org3
     TwoOrgsChannel:
         Consortium: SampleConsortium
         Application:
